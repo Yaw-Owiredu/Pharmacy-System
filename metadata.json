@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy Management System",
+  "description": "A comprehensive pharmacy inventory and sales management system built with the MVP architecture pattern.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
